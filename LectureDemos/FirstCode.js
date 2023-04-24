@@ -1,5 +1,10 @@
 var firstName;
+firstName = "Andrik,";
 
-firstName = "Andrik";
+var city;
+city = "Davie,";
 
-console.log(firstName);
+var state;
+state = " Florida.";
+
+console.log("Hello I am " + firstName + " and I am from " + city + state);
